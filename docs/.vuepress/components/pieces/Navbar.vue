@@ -1,5 +1,6 @@
 <template>
 	<div class="sample">
+
 		<nav class="_navbar">
 	    	<div class="_nav-logo">
 	    		<a class="_nav-item" href="#">
@@ -7,6 +8,7 @@
 	    		</a>
 	    	</div>	
 	    </nav>
+	    
 	</div>
 </template>
 
@@ -15,6 +17,10 @@
 </script>
 
 <style>
+.sample {
+	border: 2px solid #F1F1F1;
+}
+/* */
 ._navbar, ._nav-logo {
 	align-items: stretch;
 	background-color: #fff;

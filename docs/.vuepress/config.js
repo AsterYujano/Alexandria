@@ -1,10 +1,10 @@
 module.exports = {
-    title: 'AlexandriaCSS',
+    title: 'AlexandriaUI',
     description: "Alexandria's Library",
     themeConfig:{
         nav: [
             { text: 'Components', link: '/components/homepage' },
-            { text: 'Github', link: 'https://github/AsterYujano/Alexandria' },
+            { text: 'Github', link: 'https://github.com/AsterYujano/Alexandria' },
         ],
         sidebar: [
             {

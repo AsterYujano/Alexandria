@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Discover the Library
-actionLink: /components/
+actionLink: /components/homepage
 features:
 - title: A simple but complete library
   details: A lot of pieces of css ready out-of-the-box just for you. No framework, just pure vanilla HTML/CSS/JS.

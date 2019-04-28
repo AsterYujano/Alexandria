@@ -15,6 +15,7 @@ module.exports = {
                     '/components/navbar',
                     '/components/card',
                     '/components/footer',
+                    '/components/tabs',
                 ]
             }
         ]

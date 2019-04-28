@@ -1,21 +1,23 @@
 <template>
-    <nav class="_navbar">
-    	<div class="_nav-logo">
-    		<a class="_nav-item" href="/">
-    			<img src="/img/logo.png" alt="logo">
-    		</a>
-    	</div>	
-    </nav>
+	<div class="sample">
+		<nav class="_navbar">
+	    	<div class="_nav-logo">
+	    		<a class="_nav-item" href="#">
+	    			<img src="/img/logo.png" alt="logo">
+	    		</a>
+	    	</div>	
+	    </nav>
+	</div>
 </template>
 
 <script>
 
 </script>
 
-<style scoped>
+<style>
 ._navbar, ._nav-logo {
 	align-items: stretch;
-	background-color: #F1F1F1;
+	background-color: #fff;
 	display: flex;
 	min-height: 3.3rem;
 }
@@ -32,6 +34,4 @@
 	max-height: 2rem;
 	max-width: 100%;
 }
-
-
 </style>

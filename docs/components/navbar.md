@@ -2,11 +2,11 @@
 title: Navbar
 ---
 
-# Header
+# Navbar
 
-## Simple Header
+## Simple Navbar
 
-This header only have a logo
+This navbar only have a logo
 
 <pieces-Navbar></pieces-Navbar>
 
@@ -42,7 +42,7 @@ This header only have a logo
 }
 ```
 
-## Basic header
+## Complete Navbar
 
 ::: tip Be patient <Badge text="alpha" type="warn"/> <Badge text="0.1.1+"/>
 This is not finished yet.

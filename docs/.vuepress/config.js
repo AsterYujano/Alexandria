@@ -3,31 +3,18 @@ module.exports = {
     description: "Alexandria's Library",
     themeConfig:{
         nav: [
-            { text: 'COUNTER', link: '/counter/' },
-            { text: 'GUIDE', link: '/guide/' },
-            { text: 'Components', link: '/components/' },
+            { text: 'Components', link: '/components/homepage' },
+            { text: 'Github', link: 'https://github/AsterYujano/Alexandria' },
         ],
         sidebar: [
-            {
-                title: 'Counter',
-                collapsable: false,
-                children: [
-                '/counter/counter-app'
-                ]
-            },
-            {
-                title: 'API Guide',
-                collapsable: false,
-                children: [
-                    '/guide/guide',
-                    '/guide/api'
-                ]
-            },
             {
                 title: 'Components',
                 collapsable: false,
                 children: [
-                    '/components/header',
+                	'/components/homepage',
+                    '/components/navbar',
+                    '/components/card',
+                    '/components/footer',
                 ]
             }
         ]

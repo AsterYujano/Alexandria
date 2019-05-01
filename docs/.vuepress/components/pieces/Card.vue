@@ -1,16 +1,4 @@
 <template>
-<!--
-	<div class="_card">
-    	<img class="image" src="https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/271052_Viator_Shutterstock_166828.jpg" alt="eiffel">
-    	<header class="header">
-    		<h2 class="subtitle">Destination</h2>
-    		<h1 class="title">Eiffel tower</h1>
-    	</header>
-    	<div class="content">
-    		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis tempora soluta saepe aspernatur deserunt eaque molestiae dignissimos itaque maxime adipisci dolores harum repellendus, natus suscipit, officia culpa quos, aliquid voluptatem!
-    	</div>
-    </div>-->
-	
 	<div class="sample_card">
 		
 		<div class="_card">
@@ -26,8 +14,6 @@
 		</div>
 
 	</div>
-	
-
 </template>
 
 <script>

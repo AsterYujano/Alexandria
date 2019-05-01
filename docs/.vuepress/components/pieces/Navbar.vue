@@ -8,7 +8,7 @@
 	    		</a>
 	    	</div>	
 	    </nav>
-	    
+
 	</div>
 </template>
 
@@ -20,6 +20,7 @@
 .sample {
 	border: 2px solid #F1F1F1;
 }
+
 /* */
 ._navbar, ._nav-logo {
 	align-items: stretch;
